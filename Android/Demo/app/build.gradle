@@ -5,7 +5,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.tencent.liteav.demo"
+        applicationId "com.tencent.liteav.demos"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 6
@@ -13,7 +13,7 @@ android {
 
         multiDexEnabled true
         ndk {
-            abiFilters "armeabi-v7a"
+            abiFilters "armeabi", "armeabi-v7a", "arm64-v8a"
         }
     }
 
@@ -48,6 +48,8 @@ dependencies {
     compile project(':liveplayerdemo')
     compile project(':livepusherdemo')
     compile project(':mlvbliveroomdemo')
+
+    implementation(name:'LiteAVSDK_Smart_6.4.7265', ext:'aar')
 
     compile 'com.android.support:appcompat-v7:25.+'
     compile 'com.android.support:recyclerview-v7:25.+'

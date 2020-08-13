@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:11-45
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+	android:versionCode
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:1:1-6:12
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+application
+ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml:4:5-32
+uses-sdk
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		ADDED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
+		INJECTED from F:\GitHub\MLVBSDK\Android\Demo\debug\src\main\AndroidManifest.xml
